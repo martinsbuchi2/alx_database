@@ -1,7 +1,7 @@
 # SQL - Introduction
 
 # Objectives 
-General objectives for this task includes:
+A. General objectives for this task includes
 
     * What is a database
     * What is a relational database
