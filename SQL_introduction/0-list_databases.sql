@@ -1,2 +1,3 @@
---Show databases
+/*Show databases */
+--comment here--
 SHOW DATABASES;
