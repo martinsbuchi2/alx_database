@@ -1,3 +1,5 @@
+-- the full description of the table
+
 SELECT 
     'Table   Create Table' AS header,
     CONCAT(table_name, ' ', column_create_statement) AS create_statement
