@@ -2,6 +2,7 @@
 
 # Objectives 
 General objectives for this task includes:
+
     * What is a database
     * What is a relational database
     * What does SQL stand for
